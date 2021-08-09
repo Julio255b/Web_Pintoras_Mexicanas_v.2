@@ -1,0 +1,24 @@
+#Card H4 {
+    text-align: center;
+}
+
+#Card .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#Card article {
+    margin: 15px;
+}
+
+#Card img {
+    width: 100%;
+    max-width: 280px;
+
+}
+
+p {
+    text-align: center;
+    
+}
